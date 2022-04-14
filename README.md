@@ -16,7 +16,7 @@ shuffle()
 
 Deal a hand and calculate number of hands that beat that hand
 
-
+https://www.learnpythonwithrune.org/master-object-oriented-programming-by-creating-a-card-game/
 
 
 
